@@ -1,64 +1,73 @@
-# 👋 Hey, welcome to my GitHub!  
+# Pavan Silva
 
-> Turning ideas into clean, scalable, and meaningful code 🚀  
+Full-stack developer focused on building scalable, maintainable solutions with modern technologies.
 
 ---
 
-## 🛠️ Tech Stack  
+## Technical Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Frontend Development**
+
+`React` `Next.js` `Redux` `Angular` `TypeScript`
+
+Modern, responsive interfaces with focus on performance and user experience.
+
+</td>
+<td width="50%" valign="top">
+
+**Backend Development**
+
+`Spring Boot` `Node.js` `Java`
+
+Scalable server-side applications with robust architecture and clean APIs.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Currently Exploring**
+
+`AWS` `C#` `.NET`
+
+Expanding into cloud infrastructure and enterprise-level frameworks.
+
+</td>
+<td width="50%" valign="top">
+
+**Database & Tools**
+
+`PostgreSQL` `MongoDB` `Git` `Docker`
+
+Data modeling, version control, and containerization for efficient workflows.
+
+</td>
+</tr>
+</table>
+
+---
+
+## About
+
+I approach software development as a balance between technical precision and creative problem-solving. My focus is on writing clean, efficient code and continuously expanding my skill set through hands-on experimentation.
+
+When I'm not coding, I'm usually breaking down complex problems, exploring new technologies, or refining existing solutions.
+
+---
+
+## GitHub Activity
 
 <div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Pavan-Silva&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=333&text_color=555&icon_color=4a9eff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Silva&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=333&text_color=555" height="165" />
 </div>
 
 ---
 
-## 🌱 Currently Exploring  
+## Connect
 
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-
-</div>
-
----
-
-## ⚡ About Me  
-
-✨ I see coding as both **logic and art**  
-📚 Lifelong learner, always experimenting  
-🛠️ I break things (then fix them better)  
-😄 Fun fact: I debug my mistakes before they become yours  
-
----
-
-## 📊 GitHub Insights  
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pavan-Silva&show_icons=true&theme=tokyonight" height="160" />  
-<img src="https://streak-stats.demolab.com?user=Pavan-Silva&theme=tokyonight&hide_border=true" height="160" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Silva&layout=compact&theme=tokyonight" height="160" />
-
-</div>
-
----
-
-## 📫 Connect with Me  
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-silva/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://google.com)  
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/pavan-silva/) • [Portfolio](https://google.com)
